@@ -1,0 +1,117 @@
+{
+    "expansion": "paradox rift",
+    "cartas": [
+        {
+            "mes": "November",
+            "año": 2023,
+            "cartas": [
+                {
+                    "nombre": "Roaring Moon ex Special Illustration Rare",
+                    "id_carta": "251/182",
+                    "precio": 108.0
+                },
+                {
+                    "nombre": "Iron Valiant ex Special Illustration Rare",
+                    "id_carta": "249/182",
+                    "precio": 57.23
+                },
+                {
+                    "nombre": "Gholdengo ex Special Illustration Rare",
+                    "id_carta": "252/182",
+                    "precio": 40.26
+                },
+                {
+                    "nombre": "Iron Hands ex Special Illustration Rare",
+                    "id_carta": "248/182",
+                    "precio": 35.3
+                },
+                {
+                    "nombre": "Professor Sada's Vitality Special Illustration Rare Trainer Supporter",
+                    "id_carta": "256/182",
+                    "precio": 31.31
+                },
+                {
+                    "nombre": "Parasol Lady Special Illustration Rare Trainer Supporter",
+                    "id_carta": "255/182",
+                    "precio": 28.27
+                },
+                {
+                    "nombre": "Groudon Illustration Rare",
+                    "id_carta": "199/182",
+                    "precio": 28.02
+                },
+                {
+                    "nombre": "Altaria ex Special Illustration Rare",
+                    "id_carta": "253/182",
+                    "precio": 27.47
+                },
+                {
+                    "nombre": "Tera Garchomp ex Special Illustration Rare",
+                    "id_carta": "245/182",
+                    "precio": 27.05
+                },
+                {
+                    "nombre": "Mela Special Illustration Rare Trainer Supporter",
+                    "id_carta": "254/182",
+                    "precio": 23.97
+                }
+            ]
+        },
+        {
+            "mes": "December",
+            "año": 2023,
+            "cartas": [
+                {
+                    "nombre": "Roaring Moon ex Special Illustration Rare",
+                    "id_carta": "251/182",
+                    "precio": 106.43
+                },
+                {
+                    "nombre": "Iron Valiant ex Special Illustration Rare",
+                    "id_carta": "249/182",
+                    "precio": 66.49
+                },
+                {
+                    "nombre": "Gholdengo ex Special Illustration Rare",
+                    "id_carta": "252/182",
+                    "precio": 38.96
+                },
+                {
+                    "nombre": "Iron Hands ex Special Illustration Rare",
+                    "id_carta": "248/182",
+                    "precio": 35.87
+                },
+                {
+                    "nombre": "Tera Garchomp ex Special Illustration Rare",
+                    "id_carta": "245/182",
+                    "precio": 30.42
+                },
+                {
+                    "nombre": "Parasol Lady Special Illustration Rare Trainer Supporter",
+                    "id_carta": "255/182",
+                    "precio": 29.89
+                },
+                {
+                    "nombre": "Professor Sada's Vitality Special Illustration Rare Trainer Supporter",
+                    "id_carta": "256/182",
+                    "precio": 28.1
+                },
+                {
+                    "nombre": "Groudon Illustration Rare",
+                    "id_carta": "199/182",
+                    "precio": 26.65
+                },
+                {
+                    "nombre": "Altaria ex Special Illustration Rare",
+                    "id_carta": "253/182",
+                    "precio": 25.91
+                },
+                {
+                    "nombre": "Tapu Koko ex Special Illustration Rare",
+                    "id_carta": "247/182",
+                    "precio": 19.08
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+# Documentación sobre Web Scraping con BeautifulSoup
+
+## Problema
+
+Al realizar un web scraping en la página de Bleeding Cool, el objetivo era extraer una lista de elementos dentro de una lista ordenada (`<ol>`). Sin embargo, se encontraron algunos errores en el código original:
+
+1. **Acceso incorrecto a la lista**: Se intentó acceder a los elementos de la lista con `titulo[]`, lo cual es incorrecto.
+2. **Verificación de existencia**: No se verificó si el elemento `<ol>` se había encontrado antes de intentar acceder a él.
+
+## Resolución
+
+La solución al problema implicó realizar las siguientes correcciones en el código:
+
+- **Acceso correcto**: Utilizar `find_all("li")` directamente en el objeto `titulo` después de verificar que no es `None`.
+- **Verificación de existencia**: Antes de acceder a la lista de elementos, se agregó una condición para comprobar que `titulo` realmente existe.
+
+### Código Corregido
+
+```python
+import requests
+from bs4 import BeautifulSoup
+
+# URL que deseas scrapear
+url = 'https://bleedingcool.com/games/pokemon-tcg-value-watch-obsidian-flames-in-august-2024/'
+
+# Hacer una solicitud HTTP GET a la página
+response = requests.get(url)
+
+# Crear el objeto BeautifulSoup con el contenido HTML
+soup = BeautifulSoup(response.content, 'html.parser')
+
+# Extraer la lista ordenada (ol) de la página
+titulo = soup.find("ol")
+
+# Asegúrate de que se encontró el elemento
+if titulo:
+    # Encontrar todos los elementos de lista (li) dentro del ol
+    lista = titulo.find_all("li")
+    
+    # Mostrar los elementos de la lista
+    for item in lista:
+        print(item.get_text())
+else:
+    print("No se encontró la lista ordenada.")
+```
+
+## Crear una Lista Vacía en Web Scraping
+
+Al realizar scraping, puede ser útil crear una lista vacía para almacenar elementos antes de llenarla con datos extraídos. Aquí hay un ejemplo de cómo hacerlo:
+
+### Ejemplo de Creación de una Lista Vacía
+
+```python
+# Crear una lista vacía para almacenar datos
+datos_extraidos = []
+
+# Supongamos que estamos extrayendo elementos de una lista
+if titulo:
+    for item in lista:
+        datos_extraidos.append(item.get_text())
+
+# Imprimir la lista de datos extraídos
+print(datos_extraidos)
+```
+
+### Consideraciones al Usar Listas en Web Scraping
+
+1. **Eficiencia**: Asegúrate de que la lista vacía se inicializa antes del bucle de extracción para evitar sobrecargas de memoria.
+2. **Datos Únicos**: Si necesitas solo elementos únicos, considera usar un `set` en lugar de una lista.
+3. **Manejo de Errores**: Siempre verifica que los elementos que intentas acceder realmente existen para evitar errores de ejecución.
+
+## Conclusión
+
+El web scraping puede presentar desafíos, como el manejo de elementos no encontrados. Asegurarse de que el código maneje adecuadamente estas situaciones es crucial para evitar errores. Además, el uso de listas vacías es una práctica común para almacenar datos extraídos, permitiendo una mejor organización y manipulación de la información.

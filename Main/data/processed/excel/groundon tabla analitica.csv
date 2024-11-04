@@ -1,0 +1,12 @@
+fecha,precio,Cambio Porcentual,Promedio Acumulado,Diferencia Precio
+January,24.7,0.0,0.0,0.0
+February,26.87,8.79,4.39,2.17
+March,25.68,-4.43,1.45,-1.19
+April,22.39,-12.81,-2.11,-3.29
+May,22.39,0.0,-1.69,0.0
+June,61.74,175.75,27.88,39.35
+July,52.09,-15.63,21.67,-9.65
+August,50.03,-3.95,18.46,-2.06
+September,51.62,3.18,16.77,1.59
+October,49.35,-4.4,14.65,-2.27
+Total,386.86,146.5,10.15,24.65

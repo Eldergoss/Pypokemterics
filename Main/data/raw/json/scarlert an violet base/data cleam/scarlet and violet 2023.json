@@ -1,0 +1,509 @@
+{
+    "Expansión": "Scarlet & Violet",
+    "cartas": [
+        {
+            "mes": "April",
+            "año": 2023,
+            "cartas": [
+                {
+                    "nombre": "Miriam Special Illustration Rare Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 78.79
+                },
+                {
+                    "nombre": "Miraidon ex Special Illustration Rare",
+                    "id_carta": "244/198",
+                    "precio": 58.63
+                },
+                {
+                    "nombre": "Gardevoir ex Special Illustration Rare",
+                    "id_carta": "245/198",
+                    "precio": 46.25
+                },
+                {
+                    "nombre": "Koraidon ex Special Illustration Rare",
+                    "id_carta": "247/198",
+                    "precio": 38.14
+                },
+                {
+                    "nombre": "Miriam Full Art Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 28.69
+                },
+                {
+                    "nombre": "Gyarados Tera ex Full Art",
+                    "id_carta": "225/198",
+                    "precio": 25.38
+                },
+                {
+                    "nombre": "Ralts Illustration Rare",
+                    "id_carta": "211/198",
+                    "precio": 19.92
+                },
+                {
+                    "nombre": "Miraidon ex Gold Hyper Rare",
+                    "id_carta": "253/198",
+                    "precio": 19.8
+                },
+                {
+                    "nombre": "Nest Ball Gold Hyper Rare Trainer Item",
+                    "id_carta": "255/198",
+                    "precio": 18.31
+                },
+                {
+                    "nombre": "Arcanine Tera ex Full Art",
+                    "id_carta": "224/198",
+                    "precio": 18.04
+                }
+            ]
+        },
+        {
+            "mes": "May",
+            "año": 2023,
+            "cartas": [
+                {
+                    "nombre": "Miriam Special Illustration Rare Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 67.93
+                },
+                {
+                    "nombre": "Miraidon ex Special Illustration Rare",
+                    "id_carta": "244/198",
+                    "precio": 50.59
+                },
+                {
+                    "nombre": "Gardevoir ex Special Illustration Rare",
+                    "id_carta": "245/198",
+                    "precio": 36.49
+                },
+                {
+                    "nombre": "Koraidon ex Special Illustration Rare",
+                    "id_carta": "247/198",
+                    "precio": 24.07
+                },
+                {
+                    "nombre": "Miriam Full Art Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 22.15
+                },
+                {
+                    "nombre": "Gyarados Tera ex Full Art",
+                    "id_carta": "225/198",
+                    "precio": 18.72
+                },
+                {
+                    "nombre": "Nest Ball Gold Hyper Rare Trainer Item",
+                    "id_carta": "255/198",
+                    "precio": 16.09
+                },
+                {
+                    "nombre": "Ralts Illustration Rare",
+                    "id_carta": "211/198",
+                    "precio": 15.84
+                },
+                {
+                    "nombre": "Miraidon ex Gold Hyper Rare",
+                    "id_carta": "253/198",
+                    "precio": 15.55
+                },
+                {
+                    "nombre": "Arcanine Tera ex Full Art",
+                    "id_carta": "224/198",
+                    "precio": 15.04
+                }
+            ]
+        },
+        {
+            "mes": "June",
+            "año": 2023,
+            "cartas": [
+                {
+                    "nombre": "Miriam Special Illustration Rare Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 58.94
+                },
+                {
+                    "nombre": "Miraidon ex Special Illustration Rare",
+                    "id_carta": "244/198",
+                    "precio": 33.69
+                },
+                {
+                    "nombre": "Gardevoir ex Special Illustration Rare",
+                    "id_carta": "245/198",
+                    "precio": 32.58
+                },
+                {
+                    "nombre": "Miriam Full Art Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 21.7
+                },
+                {
+                    "nombre": "Koraidon ex Special Illustration Rare",
+                    "id_carta": "247/198",
+                    "precio": 20.88
+                },
+                {
+                    "nombre": "Gyarados Tera ex Full Art",
+                    "id_carta": "225/198",
+                    "precio": 17.79
+                },
+                {
+                    "nombre": "Nest Ball Gold Hyper Rare Trainer Item",
+                    "id_carta": "255/198",
+                    "precio": 15.07
+                },
+                {
+                    "nombre": "Ralts Illustration Rare",
+                    "id_carta": "211/198",
+                    "precio": 14.68
+                },
+                {
+                    "nombre": "Arcanine Tera ex Full Art",
+                    "id_carta": "224/198",
+                    "precio": 14.04
+                },
+                {
+                    "nombre": "Kirlia Illustration Rare",
+                    "id_carta": "212/198",
+                    "precio": 12.95
+                }
+            ]
+        },
+        {
+            "mes": "July",
+            "año": 2023,
+            "cartas": [
+                {
+                    "nombre": "Miriam Special Illustration Rare Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 52.65
+                },
+                {
+                    "nombre": "Gardevoir ex Special Illustration Rare",
+                    "id_carta": "245/198",
+                    "precio": 33.81
+                },
+                {
+                    "nombre": "Miraidon ex Special Illustration Rare",
+                    "id_carta": "244/198",
+                    "precio": 37.21
+                },
+                {
+                    "nombre": "Miriam Full Art Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 22.3
+                },
+                {
+                    "nombre": "Koraidon ex Special Illustration Rare",
+                    "id_carta": "247/198",
+                    "precio": 20.76
+                },
+                {
+                    "nombre": "Ralts Illustration Rare",
+                    "id_carta": "211/198",
+                    "precio": 15.02
+                },
+                {
+                    "nombre": "Tera Gyarados ex Full Art",
+                    "id_carta": "225/198",
+                    "precio": 15.0
+                },
+                {
+                    "nombre": "Nest Ball Gold Hyper Rare Trainer Item",
+                    "id_carta": "255/198",
+                    "precio": 14.84
+                },
+                {
+                    "nombre": "Tera Arcanine ex Full Art",
+                    "id_carta": "224/198",
+                    "precio": 14.27
+                },
+                {
+                    "nombre": "Kirlia Illustration Rare",
+                    "id_carta": "212/198",
+                    "precio": 12.4
+                }
+            ]
+        },
+        {
+            "mes": "August",
+            "año": 2023,
+            "cartas": [
+                {
+                    "nombre": "Miriam Special Illustration Rare Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 50.07
+                },
+                {
+                    "nombre": "Gardevoir ex Special Illustration Rare",
+                    "id_carta": "245/198",
+                    "precio": 22.91
+                },
+                {
+                    "nombre": "Miraidon ex Special Illustration Rare",
+                    "id_carta": "244/198",
+                    "precio": 21.61
+                },
+                {
+                    "nombre": "Miriam Full Art Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 16.97
+                },
+                {
+                    "nombre": "Koraidon ex Special Illustration Rare",
+                    "id_carta": "247/198",
+                    "precio": 16.71
+                },
+                {
+                    "nombre": "Tera Gyarados ex Full Art",
+                    "id_carta": "225/198",
+                    "precio": 15.5
+                },
+                {
+                    "nombre": "Nest Ball Gold Hyper Rare Trainer Item",
+                    "id_carta": "255/198",
+                    "precio": 14.02
+                },
+                {
+                    "nombre": "Ralts Illustration Rare",
+                    "id_carta": "211/198",
+                    "precio": 12.72
+                },
+                {
+                    "nombre": "Tera Arcanine ex Full Art",
+                    "id_carta": "224/198",
+                    "precio": 11.89
+                },
+                {
+                    "nombre": "Kirlia Illustration Rare",
+                    "id_carta": "212/198",
+                    "precio": 9.94
+                }
+            ]
+        },
+        {
+            "mes": "September",
+            "año": 2023,
+            "cartas": [
+                {
+                    "nombre": "Miriam Special Illustration Rare Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 38.13
+                },
+                {
+                    "nombre": "Gardevoir ex Special Illustration Rare",
+                    "id_carta": "245/198",
+                    "precio": 24.7
+                },
+                {
+                    "nombre": "Miraidon ex Special Illustration Rare",
+                    "id_carta": "244/198",
+                    "precio": 19.94
+                },
+                {
+                    "nombre": "Miriam Full Art Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 14.85
+                },
+                {
+                    "nombre": "Nest Ball Gold Hyper Rare Trainer Item",
+                    "id_carta": "255/198",
+                    "precio": 13.8
+                },
+                {
+                    "nombre": "Koraidon ex Special Illustration Rare",
+                    "id_carta": "247/198",
+                    "precio": 13.11
+                },
+                {
+                    "nombre": "Rare Candy Gold Hyper Rare Trainer Item",
+                    "id_carta": "256/198",
+                    "precio": 11.86
+                },
+                {
+                    "nombre": "Ralts Illustration Rare",
+                    "id_carta": "211/198",
+                    "precio": 11.17
+                },
+                {
+                    "nombre": "Tera Gyarados ex Full Art",
+                    "id_carta": "225/198",
+                    "precio": 10.65
+                },
+                {
+                    "nombre": "Tera Arcanine ex Full Art",
+                    "id_carta": "224/198",
+                    "precio": 10.64
+                }
+            ]
+        },
+        {
+            "mes": "October",
+            "año": 2023,
+            "cartas": [
+                {
+                    "nombre": "Miriam Special Illustration Rare Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 36.23
+                },
+                {
+                    "nombre": "Gardevoir ex Special Illustration Rare",
+                    "id_carta": "245/198",
+                    "precio": 24.0
+                },
+                {
+                    "nombre": "Miraidon ex Special Illustration Rare",
+                    "id_carta": "244/198",
+                    "precio": 29.47
+                },
+                {
+                    "nombre": "Miriam Full Art Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 15.05
+                },
+                {
+                    "nombre": "Nest Ball Gold Hyper Rare Trainer Item",
+                    "id_carta": "255/198",
+                    "precio": 13.25
+                },
+                {
+                    "nombre": "Rare Candy Gold Hyper Rare Trainer Item",
+                    "id_carta": "256/198",
+                    "precio": 12.01
+                },
+                {
+                    "nombre": "Ralts Illustration Rare",
+                    "id_carta": "211/198",
+                    "precio": 10.84
+                },
+                {
+                    "nombre": "Koraidon ex Special Illustration Rare",
+                    "id_carta": "247/198",
+                    "precio": 10.65
+                },
+                {
+                    "nombre": "Tera Gyarados ex Full Art",
+                    "id_carta": "225/198",
+                    "precio": 9.74
+                },
+                {
+                    "nombre": "Tera Arcanine ex Full Art",
+                    "id_carta": "224/198",
+                    "precio": 9.43
+                }
+            ]
+        },
+        {
+            "mes": "November",
+            "año": 2023,
+            "cartas": [
+                {
+                    "nombre": "Miriam Special Illustration Rare Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 34.61
+                },
+                {
+                    "nombre": "Gardevoir ex Special Illustration Rare",
+                    "id_carta": "245/198",
+                    "precio": 22.76
+                },
+                {
+                    "nombre": "Miraidon ex Special Illustration Rare",
+                    "id_carta": "244/198",
+                    "precio": 21.36
+                },
+                {
+                    "nombre": "Rare Candy Gold Hyper Rare Trainer Item",
+                    "id_carta": "256/198",
+                    "precio": 13.06
+                },
+                {
+                    "nombre": "Nest Ball Gold Hyper Rare Trainer Item",
+                    "id_carta": "255/198",
+                    "precio": 12.79
+                },
+                {
+                    "nombre": "Koraidon ex Special Illustration Rare",
+                    "id_carta": "247/198",
+                    "precio": 11.66
+                },
+                {
+                    "nombre": "Arven Special Illustration Rare Trainer Supporter",
+                    "id_carta": "249/198",
+                    "precio": 10.82
+                },
+                {
+                    "nombre": "Miriam Full Art Trainer Supporter",
+                    "id_carta": "238/198",
+                    "precio": 10.64
+                },
+                {
+                    "nombre": "Ralts Illustration Rare",
+                    "id_carta": "211/198",
+                    "precio": 10.0
+                },
+                {
+                    "nombre": "Tera Gyarados ex Full Art",
+                    "id_carta": "225/198",
+                    "precio": 9.02
+                }
+            ]
+        },
+        {
+            "mes": "December",
+            "año": 2023,
+            "cartas": [
+                {
+                    "nombre": "Miriam Special Illustration Rare Trainer Supporter",
+                    "id_carta": "251/198",
+                    "precio": 26.49
+                },
+                {
+                    "nombre": "Gardevoir ex Special Illustration Rare",
+                    "id_carta": "245/198",
+                    "precio": 22.2
+                },
+                {
+                    "nombre": "Miraidon ex Special Illustration Rare",
+                    "id_carta": "244/198",
+                    "precio": 20.87
+                },
+                {
+                    "nombre": "Nest Ball Gold Hyper Rare Trainer Item",
+                    "id_carta": "255/198",
+                    "precio": 11.4
+                },
+                {
+                    "nombre": "Ralts Illustration Rare",
+                    "id_carta": "211/198",
+                    "precio": 10.59
+                },
+                {
+                    "nombre": "Miriam Full Art Trainer Supporter",
+                    "id_carta": "238/198",
+                    "precio": 10.37
+                },
+                {
+                    "nombre": "Koraidon ex Special Illustration Rare",
+                    "id_carta": "247/198",
+                    "precio": 9.79
+                },
+                {
+                    "nombre": "Arven Full Art Trainer Supporter",
+                    "id_carta": "235/198",
+                    "precio": 9.56
+                },
+                {
+                    "nombre": "Miraidon ex Gold Hyper Rare",
+                    "id_carta": "253/198",
+                    "precio": 9.15
+                },
+                {
+                    "nombre": "Rare Candy Gold Hyper Rare Trainer Item",
+                    "id_carta": "256/198",
+                    "precio": 8.94
+                }
+            ]
+        }
+    ]
+}
